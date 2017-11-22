@@ -387,7 +387,7 @@
             <exclude>*.log</exclude>
             <exclude>**/serial</exclude>
             <exclude>**/index.txt</exclude>
-            <exclude>httpclient5-testing</exclude>
+            <exclude>httpclient5-testing/**</exclude>
           </excludes>
         </configuration>
       </plugin>
